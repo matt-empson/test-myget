@@ -1,1 +1,1 @@
-(iwr http://ifconfig.me).Content
+(iwr http://ifconfig.me -UseBasicParsing).Content
